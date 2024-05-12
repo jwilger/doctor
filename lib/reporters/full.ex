@@ -11,7 +11,7 @@ defmodule Doctor.Reporters.Full do
 
   @doc_cov_width 9
   @spec_cov_width 10
-  @module_width 82
+  @module_width 120
   @file_width 116
   @functions_width 11
   @missed_docs_width 9
